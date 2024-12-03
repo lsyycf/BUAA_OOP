@@ -17,7 +17,7 @@
 
 2. **类与类的关系**
 
-![ClassGraph](A:\IDE\GIthub\OOP\Class.png)
+![ClassGraph](Class.png)
 
 - **程序入口**
 	
